@@ -172,11 +172,15 @@
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manishyadav8303/manishyadav8303/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <a href="https://github.com/manishyadav8303">
+    <img src="https://raw.githubusercontent.com/manishyadav8303/manishyadav8303/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </a>
 </p>
 
 <p align="center">
-  🐍 Watch the snake eat my GitHub contributions!
+  <a href="https://github.com/manishyadav8303">
+    🐍 Watch the snake eat my GitHub contributions!
+  </a>
 </p>
 
 
