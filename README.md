@@ -131,14 +131,7 @@
   <img src="https://img.shields.io/badge/Microservices-007396?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-- 🔹 High-Level Design (HLD)
-- 🔹 Low-Level Design (LLD)
-- 🔹 Distributed Systems
-- 🔹 Microservices Architecture
-- 🔹 Database Design
-- 🔹 Caching
-- 🔹 Message Queues
-- 🔹 Scalability & Reliability
+
 
 ---
 
@@ -146,8 +139,8 @@
 <h2 align="center">🔥 LeetCode Progress</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://leetcode.com/u/manishyadav002/?theme=dark&font=baloo&ext=heatmap" />
+  <a href="https://leetcode.com/u/manishyadav002/">
+    <img src="https://leetcard.jacoblin.cool/manishyadav002?theme=dark&font=baloo&ext=heatmap" alt="Manish Yadav LeetCode Stats" />
   </a>
 </p>
 
