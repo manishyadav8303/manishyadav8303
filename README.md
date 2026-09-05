@@ -142,71 +142,12 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/manishyadav8303/employeesearchportal">
-        <b>👨‍💼 Employee Search Portal</b>
-      </a>
-      <br/><br/>
-      Employee management and search based application.
-    </td>
-
-    <td align="center" width="50%">
-      <a href="https://github.com/manishyadav8303/StudentAPI-Project">
-        <b>🎓 Student API Project</b>
-      </a>
-      <br/><br/>
-      Backend API project for student management.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/manishyadav8303/user-management-project">
-        <b>👤 User Management System</b>
-      </a>
-      <br/><br/>
-      User management and backend development project.
-    </td>
-
-    <td align="center" width="50%">
-      <a href="https://github.com/manishyadav8303/Java-DSA-Programing">
-        <b>🧠 Java DSA Programming</b>
-      </a>
-      <br/><br/>
-      Java based Data Structures and Algorithms practice.
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/manishyadav8303/Student-login-Project">
-        <b>🔐 Student Login Project</b>
-      </a>
-      <br/><br/>
-      Student authentication and login based project.
-    </td>
-
-    <td align="center" width="50%">
-      <a href="https://github.com/manishyadav8303/Contact-Management-system-project">
-        <b>📞 Contact Management System</b>
-      </a>
-      <br/><br/>
-      Contact management application.
-    </td>
-  </tr>
-</table>
-
----
 
 <h2 align="center">🔥 LeetCode Progress</h2>
 
 <p align="center">
   <a href="https://leetcode.com/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" />
+    <img src="https://leetcode.com/u/manishyadav002/?theme=dark&font=baloo&ext=heatmap" />
   </a>
 </p>
 
