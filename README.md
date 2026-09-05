@@ -179,17 +179,7 @@
   🐍 Watch the snake eat my GitHub contributions!
 </p>
 
----
 
-<h2 align="center">🎮 Coding Game</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Play-Let's%20Go!-6DB33F?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
-  💻 Code → 🧠 Learn → 🚀 Build → 🔥 Repeat
-</p>
 
 ---
 
