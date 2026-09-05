@@ -155,17 +155,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manishyadav8303&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishyadav8303&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="180" />
-
-</div>
-
----
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
@@ -173,13 +163,9 @@
   <img src="https://streak-stats.demolab.com?user=manishyadav8303&theme=dracula&hide_border=false" />
 </p>
 
----
 
-<h2 align="center">📈 Contribution Graph</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishyadav8303&theme=dracula&hide_border=false" />
-</p>
+
 
 ---
 
