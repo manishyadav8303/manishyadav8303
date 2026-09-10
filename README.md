@@ -160,7 +160,7 @@
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manishyadav8303&theme=dracula&hide_border=false" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=manishyadav8303&theme=dracula&hide_border=false" />
 </p>
 
 
