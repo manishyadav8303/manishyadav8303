@@ -153,21 +153,7 @@
   <b>🧠 Solving DSA problems consistently on LeetCode</b>
 </p>
 
----
 
-
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=manishyadav8303&theme=dracula&hide_border=false" />
-</p>
-
-
-
-
-
----
 
 <h2 align="center">🐍 GitHub Contribution Snake</h2> <p align="center"> <img src="https://raw.githubusercontent.com/manishyadav8303/manishyadav8303/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p> <p align="center"> 🐍 Watch the snake eat my GitHub contributions! </p>
 
